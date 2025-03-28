@@ -161,6 +161,15 @@ body {
 .team-item>div{
     flex-basis: calc(100%-100px);
 }
+.team-item h3{
+    font-size: 28px;
+    color: #202020;
+    margin-bottom: 0;
+}
+.team-item p{
+    font-size: 14px;
+    color: #B2B2B2;
+}
 .box-footer{
     display: flex;
     justify-content: space-between;
@@ -172,7 +181,7 @@ body {
     display: flex;
 }
 .social>li{
-    margin-left: 15px;
+    margin-left: 40px;
 }
 .social>li>a{
     text-decoration: none;
